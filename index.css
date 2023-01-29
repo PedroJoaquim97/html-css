@@ -1,0 +1,121 @@
+/*Limpar formatações*/
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #F4F1F1;
+}
+
+/*****Formatação cabeçalho/header/layout*****/
+#area-header{
+	text-align: center;
+	background:#F0C129;
+}
+
+#area-logo, #area-menu{
+	padding: 12px 12px;
+}
+
+#area-menu a:link, a:visited{
+	color: white;
+	text-decoration: none;
+	padding: 15px;
+	font-size: 1.2em;
+}
+
+#area-menu a:hover{
+	background: white;
+	color: #F0C129;
+}
+
+
+/*****Formatação principal central*****/
+
+	#area-principal{
+		width: 920px;
+		margin: 0 auto;
+}
+
+
+/*****Formatação principal central*****/
+
+#principal-central{	
+	width: 660px;
+	float: left;
+	margin-top: 20px;
+}
+
+
+#principal-central a:link, a:visited{
+	color: #F0C129;
+	text-decoration: none;
+}
+#principal-central a:hover{
+	text-decoration: underline;
+}
+
+.postagem-central{
+	padding: 20px;
+	margin-bottom: 20px;
+	background: white;
+}
+
+.data-postagem{
+	font-size: 0.8em;
+	border-bottom: 1px solid #E0DEDE;
+	padding-bottom: 10px;
+	display: block;
+	margin-bottom: 10px;
+}
+/*****Formatação principal lateral*****/
+#principal-lateral{
+	
+	width: 240px;
+	float: right;
+	margin-top: 20px;
+	background: white;
+}
+
+
+#principal-lateral a:link, a:visited{
+	color: #F0C129;
+	text-decoration: none;
+}
+
+#principal-lateral a:hover{
+	text-decoration: underline;
+}
+.postagem-lateral{
+	
+	padding: 5px;
+	font-size: 0.8em;
+	border-bottom: 1px dotted #CCC;
+}
+/*****Estilos geral*****/
+
+#rodape{
+	padding: 15px;
+	clear: both;
+	text-align: center;
+	background: #CCCBCB;
+}
+
+.branco{
+	color: white;
+}
+
+h1{
+	color: #484744;
+	font-size: 5em;
+}
+h2{
+	color: #F0C129;
+}
+
+h3{
+	color: #565656;
+	background: #CCC;
+	padding: 5px;
+}
