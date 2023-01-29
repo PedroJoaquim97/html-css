@@ -1,0 +1,31 @@
+.conteudo1{
+	background: indianred;
+	border: 1px solid black;
+	width: 150px;
+	height: 150px;
+	margin: 10px;
+	float: left;
+}
+
+.conteudo2{
+	background: royalblue;
+	border: 1px solid black;
+	width: 150px;
+	height: 150px;
+	margin: 10px;
+	float: left;
+}
+
+.conteudo3{
+	background: seagreen;
+	border: 1px solid black;
+	width: 150px;
+	height: 150px;
+	margin: 10px;
+	float: left;
+}
+
+.texto{
+
+	clear: left;
+}

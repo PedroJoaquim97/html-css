@@ -1,0 +1,20 @@
+/*O posicionamento do relative é direcionado com top, right, bottom e left*/
+
+
+body{
+
+	background: #007fc7;
+}
+
+#container{
+	background: #FFF;
+	width: 800px;
+	margin: 10px auto;
+}
+
+#texto{
+	border: 1px solid red;
+	padding: 30px auto;
+	margin: 30px auto;
+	width: 400px;
+}

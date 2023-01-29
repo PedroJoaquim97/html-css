@@ -1,0 +1,33 @@
+body{
+
+	background-color: #f4f4f4;}
+
+.clear{
+
+	clear: both;
+}
+
+#principal{
+
+	font: 14px Times New roman Georgia,serif;
+	width: 920px;
+}
+
+
+.bloco{	
+	float: left;
+	margin: 5px;
+	padding: 5px;
+	width: 280px;
+	background-color: #ECEBEB;
+}
+
+.imagem-galeria{
+
+	background-color: white;
+	width: 265px;
+	padding: 5px;
+	float: left;
+	margin: 15px;
+
+}
